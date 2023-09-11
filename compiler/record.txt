@@ -1,0 +1,7 @@
+string i,bc,ia;
+i="a";
+bc=i + "b";
+if(bc=="a")
+start ia="a";i="z";end 
+else 
+start ia="z"; end;
